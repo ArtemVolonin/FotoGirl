@@ -1,0 +1,19 @@
+@media(max-width:1200px){
+
+    body{
+        width: 80%;
+    }
+    header{
+        display: flex; 
+        font-size: 15px;
+        margin-bottom: 20px; 
+    }
+    main .box, .box2 {
+          margin-bottom: 80px;
+      }
+   span { 
+  font-size: 15px;
+  
+}
+
+}

@@ -17,7 +17,7 @@ header{
     margin: auto;
     align-items: center;
     font-family: Montserrat-Regular;
-    font-size: 1vw; 
+    font-size: 15px; 
 }
 header a {
    
@@ -40,7 +40,7 @@ margin-bottom: 150px;
 }
 main .left, .right{
     width: 50%;
-    font-size: 2vw; 
+    font-size: 15px; 
     font-family: Montserrat-SemiBold;
 }
 main .right img{
@@ -63,12 +63,12 @@ margin-right: 10%;
 }
  span{
     color: #A52424;
-    font-size: 2vw; 
+    font-size: 20px; 
     font-family: Montserrat-SemiBold; 
 
 }
 .box2 .right p{
-    font-size: 1vw; 
+    font-size: 15px; 
 color: #232323;
 }
 .portfolio{
@@ -83,7 +83,7 @@ display: flex;
     width: 100%;
 }
 h2{
-    font-size: 2vw; 
+    font-size: 25px; 
     font-family: Montserrat-SemiBold;  
 }
 .prt input {
@@ -114,11 +114,11 @@ h2{
 }
 .stroka p{
     font-family: Montserrat-Regular;
-    font-size: 1vw; 
+    font-size: 15px; 
     margin: 10px 0 10px 0;  
 }
 .stroka p:Last-child{
-    font-size: 1vw; 
+    font-size: 15px; 
     font-family: Montserrat-SemiBold; 
 }
 .stroka a{
@@ -174,7 +174,7 @@ border-color: #A52424;
 color: #A52424;
 width: 100%;
 font-family: Montserrat-Regular;
-font-size: 1.5vw;
+font-size: 20px;
 }
  .fdiv{
     display: flex;
